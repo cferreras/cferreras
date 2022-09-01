@@ -1,4 +1,6 @@
 ### Hi there 👋
+As a Front-End developer, I am soon interested in the world of web design. Shortly thereafter at work became fascinated by VueJS—Now my focus is mainly on React
+
 
 <!--
 **cferreras/cferreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
