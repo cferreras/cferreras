@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Spigot API (Java).
 - 👯 I’m looking to collaborate on Spigot plugins.
 - 🤔 I’m looking for help with good job offers.
-- 💬 Ask me about anithing.
+- 💬 Ask me about anything.
 - 📫 How to reach me: carlos@carlosferreras.com and @CferrerasCarlos
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: 
