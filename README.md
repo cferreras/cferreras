@@ -1,5 +1,13 @@
 ### Hi there 👋
-As a Front-End developer, I am soon interested in the world of web design. Shortly thereafter at work became fascinated by VueJS—Now my focus is mainly on React
+- 🔭 I’m currently working on some side proyects.
+- 🌱 I’m currently learning Spigot API (Java).
+- 👯 I’m looking to collaborate on Spigot plugins.
+- 🤔 I’m looking for help with good job offers.
+- 💬 Ask me about anithing.
+- 📫 How to reach me: carlos@carlosferreras.com and @CferrerasCarlos
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: 
+If you shuffle a deck of cards well, it is likely that the deck is the only one with that combination that has ever existed.
 
 
 <!--
