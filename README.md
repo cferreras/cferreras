@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on some side proyects.
 - 🌱 I’m currently learning Spigot API (Java).
 - 👯 I’m looking to collaborate on Spigot plugins.
-- 🤔 I’m looking for help with good job offers.
+- 🤔 I’m looking for help with for job offers.
 - 💬 Ask me about anything.
 - 📫 How to reach me: carlos@carlosferreras.com and @CferrerasCarlos
 - 😄 Pronouns: he/him.
