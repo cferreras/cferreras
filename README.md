@@ -1,13 +1,11 @@
 ### Hi there 👋
 - 🔭 I’m currently working on some side proyects.
-- 🌱 I’m currently learning Spigot API (Java).
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Spigot plugins.
-- 🤔 I’m looking for help with for job offers.
-- 💬 Ask me about anything.
-- 📫 How to reach me: carlos@carlosferreras.com and @CferrerasCarlos
+- 💬 Ask me about anything related to frontend development.
+- 📫 How to reach me: [email](mailto:carlos@carlosferreras.com).
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: 
-If you shuffle a deck of cards well, it is likely that the deck is the only one with that combination that has ever existed.
+- ⚡ Fun fact: I love programming and waching movies.
 
 
 <!--
