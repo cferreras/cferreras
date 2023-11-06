@@ -1,1 +1,2 @@
-Crafting web experiences with Vue and Nuxt.
+✨ Crafting web experiences with Vue and Nuxt.
+🧠 Learning Angular!
