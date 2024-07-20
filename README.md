@@ -1,3 +1,1 @@
-✨ Crafting web experiences!
-
-🧠 Learning Node.js!
+Passionate developer with a diverse skill set. My projects range from cryptocurrency tools and game bots to web applications and Minecraft plugins. I enjoy creating Discord bots, automating tasks, and developing interactive games. My work showcases proficiency in various technologies including API usage, web development, and game modding. Always excited to learn and tackle new challenges in the world of coding!
